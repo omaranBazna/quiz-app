@@ -17,6 +17,12 @@ function App() {
       <a href="#">
         Contact
       </a>
+      <a href="#">
+        Sign In
+      </a>
+      <a href="#">
+        Sing Up
+      </a>
      </nav>
      <div className="hero">
          <h1>Our Quiz</h1>
@@ -24,7 +30,16 @@ function App() {
           <button>Sing In</button><button >Sign Up</button>
      </div>
      <div className="about">
+         <img src="" />
 
+         <div className="details">
+           <h3>Our Mission to help you to learn by applying applied quiz quiestions</h3>
+           <ul>
+             <li>
+               
+             </li>
+           </ul>
+         </div>
      </div>
      <div className="thumbnail">
 
