@@ -5,7 +5,18 @@ function App() {
   return (
     <div className="App">
      <nav>
-
+      <a href="#">
+        Our Quiz
+      </a>
+      <a href="#">
+        About
+      </a>
+      <a href="#">
+        Examples
+      </a>
+      <a href="#">
+        Contact
+      </a>
      </nav>
      <div className="hero">
 
@@ -17,7 +28,7 @@ function App() {
 
      </div>
      <footer>
-       
+
      </footer>
     </div>
   );
