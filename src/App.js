@@ -19,7 +19,9 @@ function App() {
       </a>
      </nav>
      <div className="hero">
-
+         <h1>Our Quiz</h1>
+         <h3>The Journey of one thousands feet start with single step</h3>
+          <button>Sing In</button><button >Sign Up</button>
      </div>
      <div className="about">
 
